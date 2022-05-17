@@ -1,7 +1,7 @@
 # Curated-Hacker-Resources
 A list of RoH community shared tools and resources over the course of 2022.  
 
-## RoH Community Shared Tools & Resources 2022
+
 
 [GitHub - maliceio/malice: VirusTotal Wanna Be - Now with 100% more Hipster](https://github.com/maliceio/malice) #virus #malware-analysis 
 
